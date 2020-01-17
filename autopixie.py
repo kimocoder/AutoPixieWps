@@ -56,7 +56,7 @@ def menu():
 	while True:
 		menuSelect=""
 		os.system(clr)
-		print"               ,-.----.                  "
+		print"  123             ,-.----."
 		print"   ,---,       \    /  \            .---."
 		print"  '  .' \      |   :    \          /. ./|"
 		print" /  ;    '.    |   |  .\ :     .--'.  ' ;"
